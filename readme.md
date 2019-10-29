@@ -14,6 +14,11 @@ eg
 - [It’s not about the Journey; It’s about the Destination:Following Soft Paths under Question-Guidance for Visual Reasoning](https://cvhci.anthropomatik.kit.edu/~mhaurile/papers/CVPR2019_SoftPaths.pdf) - Monica Haurilet et al, **CVPR 2019**. 
 - [CLEVR-Ref+: Diagnosing Visual Reasoning with Referring Expressions](http://arxiv.org/abs/1901.00850) - Runtao Liu et al, **CVPR 2019**. [[code]](https://cs.jhu.edu/˜cxliu/2019/clevr-ref+)
 
+
+## ICCV 2019
+
+- [Language-Conditioned Graph Networks for Relational Reasoning](http://arxiv.org/abs/1905.04405) - Ronghang Hu et al, **ICCV 2019**. [[code]](http://ronghanghu.com/lcgn)
+
 ### NIPS 2019
 
 - [Learning by Abstraction: The Neural State Machine](http://arxiv.org/abs/1907.03950) - Drew A. Hudson et al, **NIPS 2019**. 
@@ -29,6 +34,7 @@ eg
 ### CVPR 2018
 
 - [Transparency by Design: Closing the Gap Between Performance and Interpretability in Visual Reasoning](https://arxiv.org/abs/1803.05268) - David Mascharka et al, **CVPR 2018**. [[code]](https://github.com/davidmascharka/tbd-nets)
+- [Iterative Visual Reasoning beyond Convolutions](https://arxiv.org/abs/1803.11189) - Xinlei Chen et al, **CVPR 2018**.
 
 ### ECCV 2018
 
@@ -53,6 +59,9 @@ eg
 - [Inferring and Executing Programs for Visual Reasoning](https://arxiv.org/abs/1612.06890) - Justin Johnson et al, **ICCV 2017**. [[code]](https://github.com/facebookresearch/clevr-iep)
 - [Learning to Reason: End-to-End Module Networks for Visual Question Answering](https://arxiv.org/abs/1704.05526) - Ronghang Hu et al, **ICCV 2017**. [[code]](http://ronghanghu.com/n2nmn/)
 
+### ICML 2017
+
+- [Learning Visual Reasoning Without Strong Priors](http://arxiv.org/abs/1707.03017) - Ethan Perez et al, **ICML 2017**. 
 
 ### NIPS 2017
 - [A simple neural network module for relational reasoning](https://arxiv.org/abs/1704.05526) - Adam Santoro et al, **NIPS 2017**.
