@@ -15,18 +15,23 @@ eg
 - [CLEVR-Ref+: Diagnosing Visual Reasoning with Referring Expressions](http://arxiv.org/abs/1901.00850) - Runtao Liu et al, **CVPR 2019**. [[code]](https://cs.jhu.edu/˜cxliu/2019/clevr-ref+)
 
 
-## ICCV 2019
+### ICCV 2019
 
 - [Language-Conditioned Graph Networks for Relational Reasoning](http://arxiv.org/abs/1905.04405) - Ronghang Hu et al, **ICCV 2019**. [[code]](http://ronghanghu.com/lcgn)
+
+### ICLR 2019
+
+- [The Neuro-symbolic Concept Learner: Interpreting scenes, words, and sentences from natural supervision](http://arxiv.org/abs/1904.12584) - Jiayuan Mao et al, **ICLR 2019**. [[code]](https://github.com/vacancy/NSCL-PyTorch-Release)
 
 ### NIPS 2019
 
 - [Learning by Abstraction: The Neural State Machine](http://arxiv.org/abs/1907.03950) - Drew A. Hudson et al, **NIPS 2019**. 
+- [Learning Dynamics of Attention: Human Prior for Interpretable Machine Reasoning](http://arxiv.org/abs/1905.11666) - Wonjae Kim et al, **NIPS 2019**. 
 
 
 ## 2018
 
-## AAAI 2018
+### AAAI 2018
 
 - [FiLM: Visual Reasoning with a General Conditioning Layer](http://arxiv.org/abs/1709.07871) - Ethan Perez et al, **AAAI 2018**. [[code]](https://github.com/ethanjperez/film)
 
@@ -42,11 +47,15 @@ eg
 
 ### EMNLP 2018
 
-- [Cascaded Mutual Modulation for Visual Reasoning](https://arxiv.org/abs/1809.01943) - Yiqun Yao et al, **EMNLP 2018**.[[code]](https://github. com/FlamingHorizon/CMM-VR)
+- [Cascaded Mutual Modulation for Visual Reasoning](https://arxiv.org/abs/1809.01943) - Yiqun Yao et al, **EMNLP 2018**.[[code]](https://github.com/FlamingHorizon/CMM-VR)
 
 ### ICLR 2018
 
 - [Compositional Attention Networks for Machine Reasoning](http://arxiv.org/abs/1803.03067) - Drew A. Hudson et al, **ICLR 2018**.
+
+### NIPS 2018
+
+- [Neural-symbolic VQA: Disentangling reasoning from vision and language understanding](http://arxiv.org/abs/1810.02338) - Kexin Yi et al, **NIPS 2018**.
 
 ## 2017
 
