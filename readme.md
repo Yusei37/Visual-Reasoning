@@ -4,6 +4,11 @@ eg
 ```
 - [Paper Name](link) - Author 1 et al, **Conference Year**. [[code]](link)
 ```
+## 2020
+
+### ICLR 2020
+- [CLEVRER: CoLlision Events for Video REpresentation and Reasoning](http://arxiv.org/abs/1910.01442) - Kexin Yi et al, **ICLR 2020**. 
+
 
 ## 2019
 
@@ -14,6 +19,9 @@ eg
 - [It’s not about the Journey; It’s about the Destination:Following Soft Paths under Question-Guidance for Visual Reasoning](https://cvhci.anthropomatik.kit.edu/~mhaurile/papers/CVPR2019_SoftPaths.pdf) - Monica Haurilet et al, **CVPR 2019**. 
 - [CLEVR-Ref+: Diagnosing Visual Reasoning with Referring Expressions](http://arxiv.org/abs/1901.00850) - Runtao Liu et al, **CVPR 2019**. [[code]](https://cs.jhu.edu/˜cxliu/2019/clevr-ref+)
 
+### EMNLP 2019
+
+- [LXMERT : Learning Cross-Modality Encoder Representations from Transformers](http://arxiv.org/abs/1908.07490) - Hao Tan et al, **EMNLP 2019**. [[code]](https://github.com/airsplay/lxmert)
 
 ### ICCV 2019
 
@@ -22,6 +30,7 @@ eg
 ### ICLR 2019
 
 - [The Neuro-symbolic Concept Learner: Interpreting scenes, words, and sentences from natural supervision](http://arxiv.org/abs/1904.12584) - Jiayuan Mao et al, **ICLR 2019**. [[code]](https://github.com/vacancy/NSCL-PyTorch-Release)
+- [Visual Reasoning By Progressive Module Networks](http://arxiv.org/abs/1904.12584) - Seung Wook Kim et al, **ICLR 2019**. 
 
 ### NIPS 2019
 
